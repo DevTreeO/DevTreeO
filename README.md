@@ -4,7 +4,8 @@
  
  🌱 I’m currently learning 
  
-![swift-96x96](https://github.com/user-attachments/assets/35063f27-1a7a-4a1e-abe0-1f291983efc5) 
+![Python-96x96](https://github.com/user-attachments/assets/aecfe4bd-79c4-4d4e-b9c1-07edc40c9b97)
+
 
 
 <!--
