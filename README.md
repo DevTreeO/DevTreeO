@@ -4,8 +4,7 @@
  
  🌱 I’m currently learning 
  
-![Python-96x96](https://github.com/user-attachments/assets/aecfe4bd-79c4-4d4e-b9c1-07edc40c9b97)
-
+![c++ logo](https://github.com/user-attachments/assets/45fd9de8-18d0-4060-94c2-baa946536a38)
 
 
 <!--
