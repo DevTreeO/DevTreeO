@@ -4,8 +4,8 @@
  
  🌱 I’m currently learning 
  
-![c++ logo](https://github.com/user-attachments/assets/45fd9de8-18d0-4060-94c2-baa946536a38) ![cropped-image-96x96](https://github.com/user-attachments/assets/c4ccbd17-e906-4a68-bd4d-4ace4a286c4f)
-
+![cropped-image-96x96](https://github.com/user-attachments/assets/c4ccbd17-e906-4a68-bd4d-4ace4a286c4f)
+ ![c++ logo](https://github.com/user-attachments/assets/45fd9de8-18d0-4060-94c2-baa946536a38)
 
 
 <!--
