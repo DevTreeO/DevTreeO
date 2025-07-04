@@ -4,7 +4,7 @@
  
  🌱 I’m currently learning 
  
-![cropped-image-96x96](https://github.com/user-attachments/assets/c4ccbd17-e906-4a68-bd4d-4ace4a286c4f)
+![Python-logo-notext](https://github.com/user-attachments/assets/d32119de-c8da-431b-9ccf-6d8cf359ccf1)
  ![c++ logo](https://github.com/user-attachments/assets/45fd9de8-18d0-4060-94c2-baa946536a38)
 
 
