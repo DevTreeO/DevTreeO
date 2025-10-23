@@ -4,7 +4,9 @@
  
  🌱 I’m currently learning 
  
- <img width="76" height="76" alt="apple-touch-icon-76x76" src="https://github.com/user-attachments/assets/98322545-2c6b-4d6f-93bc-e3e34a246cb9" /> ![c++ logo](https://github.com/user-attachments/assets/45fd9de8-18d0-4060-94c2-baa946536a38)
+ <img width="76" height="76" alt="apple-touch-icon-76x76" src="https://github.com/user-attachments/assets/98322545-2c6b-4d6f-93bc-e3e34a246cb9" /> <img width="96" height="96" alt="cropped-image-96x96" src="https://github.com/user-attachments/assets/878398f5-707c-44a6-9535-b7cfe44a73c7" />
+
+
 
 
 <!--
